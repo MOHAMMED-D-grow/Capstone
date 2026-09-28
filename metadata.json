@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Nordic — Architectural Objects & E-Commerce Catalog",
+  "description": "Production-grade e-commerce catalog capstone featuring client-side routing, modular architecture, responsive performance optimization, product comparison, dynamic cart, and deployment pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
